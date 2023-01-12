@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "learning-project-374417",
+  "private_key_id": "b41563fc7d7a9b576c59610a096fcaace0a2c3d8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEugIBADANBgkqhkiG9w0BAQEFAASCBKQwggSgAgEAAoIBAQCH0sJHW30Qd8TP\nDHpjnLYcx99+YSNXgEWPjOEFR4nAVzbtSplzz6kbTLfWBk7nxu2uo9Z1zEQD6t5X\nBLG7ALIawI39tpsy3hGWCz5z/TiIhwrtZy5ZU9ix1j4AbrfsZiawcFTvaTdJpHTh\nQt+hZUfFbb4HNUqwKJcJw/NZfCSuClcikFL/LAZaj9yyd+uFj+1fIVCz0R0Fb68A\nFeiT/5JF7fvhsIZJO7pbU2EDbJq89N1S+Nvhrlvlbtxv0ZWBbVE+EmXKBtAd/rPc\nqGFtxRTBEovcc8XK/uOHqmYyLvREe2ggTZuwzOvUvJkJ6gkAYI74u7YHpr8Fe+/9\nobcOndBbAgMBAAECgf9cODHfhyeR2EvIpiSh2ty0UNK0QijUKSyGHJWU0YlwVK/f\nVmpOw2qaB05tpdrWD946WElzVOCq34e6GUdNsSs8oa9p2mPjDodt5JGaL2t46maA\n+QIiMEA3CrSCrfAEwPnhAO/wKa7UrqZQHaNcTzmDMEXWE3BFn6a++qni0meJlE/1\nYFaXHf6pBarYrL/YWLH39g9KlIsSkizPsBiy5vcAKhsoxmbRMiivexLTtoGZgTz9\nlDrWrZwRpo8AtStCLxaNPFnsPzitKwiEXW5GAgobhg5UgS9KE2twU4HRsSkGsnXi\nijEfBo25tqrWGbguE8lCc3jIMulleOcm5NV4VQECgYEAvf/EWzXZMq6MWLjLmErX\nZszm+zryliYH31TTQDU+pHilwOcXg22BZ0EllsleXBKn9WLVjoOoeS8xO3TrB5V2\nwJhMUJilktSZvYZpCgv6Sw3DtL6Lh0RUxdaBnq+jzOfFsSHJ35c9WkNgwlm3enKM\nCAJE26tIKxnr2Hq06BEi6FECgYEAtwE/Nn8lg2WyKaiREjIk/DMAc35afGesIfwQ\nlZdkPGe8bLYWLTumrYUE6AhtwQRCTLKu5NpGkHk0Zz92Xk5jk9k/ISS3YwXgCL32\nUEhgSP6ppUHEilgWmD91T5jgvZn5ap9RR093aV2NEVN8LorqiQKzXaHxPPOQ/Wuo\n0A+ULusCgYA7/0MrJkLy/Sl2bsxjx+ZjIPsjhEbMYTAFNw0KboXce/ijhJXpO7As\nQeczyVzRqFZ/Z3lWan7N3bgnNVFucKUyRiV7IejPB/GQZpxOvt+Hyc3uCmmXCl3W\np1kBGieYcev8dlYAFAscsMAiPyBwOzG66bSCxYChk6rlDkKIMbkbMQKBgFyIwt/Z\ndqx0FZw+4evjcxQa7dV4RGS3PzCH9hLN1B8/DOWjRJ9mlCcVJZ/18xkwAB4sE4cg\nX6HZx4eVbVLOLEesB+HIYPovFFMXSp7ZmeYO7tTi5nBVjkc5fyXaVXlJi/Y/zKdU\nJTsf1J64KgiWsXTJ6swjgImjVuLtNxTNa841AoGAI7TFk9po+0jdfeIL85iVPOf7\nw2fAyUOUZWHh3XjKJgZu76pfKrul1jDj8SkqPLAaeujrrZWK2F9LnNLudbEMTl8+\nCcRPGatlbyrkw1dirEzi/YYU1ZIdM1Lw1IaaDX21u8Dc8DiIjBCCILrz3wDEM62U\nE0h7MFd45l+rYc+Sp8w=\n-----END PRIVATE KEY-----\n",
+  "client_email": "shujat-temp-learning@learning-project-374417.iam.gserviceaccount.com",
+  "client_id": "116894428147753663023",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/shujat-temp-learning%40learning-project-374417.iam.gserviceaccount.com"
+}
