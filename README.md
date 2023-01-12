@@ -3,6 +3,7 @@ A basic userbased listing using Django
 
 
 # Project setup
+git clone https://github.com/MShujat/Real_estate_listing.git
 install python3 and pip3
 
 Best pratice is to create the virtualenv first and then installing the project in it.
