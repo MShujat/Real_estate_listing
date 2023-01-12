@@ -1,2 +1,3 @@
-# Real_estate_listing
-A basic django userbased listing
+# Real Estate Listing with google sheets reporting 
+A basic userbased listing using Django 
+
