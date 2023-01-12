@@ -28,6 +28,7 @@ http://127.0.0.1:8000/
 
 # API Documentation using swagger
 Using the following endpoint we can access the Docs of all APIS in system and chcek them
+
 http://127.0.0.1:8000/swagger/
 
 
